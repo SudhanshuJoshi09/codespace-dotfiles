@@ -10,25 +10,7 @@
 
 tap "homebrew/bundle"
 tap "homebrew/core"
-tap "supabase/tap"
 
-# GNU File, Shell, and Text utilities
-brew "coreutils"
-# GitHub command-line tool
-brew "gh"
-# Small git utilities
-brew "git-extras"
-# GNU Pretty Good Privacy (PGP) package
-brew "gnupg"
-# Lightweight and flexible command-line JSON processor
-brew "jq"
 # Ambitious Vim-fork focused on extensibility and agility
 brew "neovim"
-# Static analysis and lint tool, for (ba)sh scripts
-brew "shellcheck"
-# Autoformat shell script source code
-brew "shfmt"
-# Cross-shell prompt for astronauts
-brew "starship"
-# Supabase CLI
-brew "supabase/tap/supabase"
+brew "tmux"
